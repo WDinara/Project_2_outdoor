@@ -1,0 +1,36 @@
+.section-map {
+	position: relative;
+	padding: 180px 0;
+}
+
+.section__map-container{
+    background-color: $brown;
+}
+
+.section-map__title {
+	margin-bottom: 3vw;
+	padding-top: 3vw;
+}
+
+.section-map__title-title {
+    color: $yellow;
+    text-align: center;
+    font-family: $font-accent;
+    font-size: 36px;
+    font-weight: 400;
+    line-height: 43.2px;
+}
+
+.section-map__map {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.map {
+    
+	width: 80vw;
+	height: 60vh;
+    background: #626262;
+    
+}
